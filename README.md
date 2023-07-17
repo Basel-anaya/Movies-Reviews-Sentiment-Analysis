@@ -49,10 +49,10 @@ The project notebook is organized as follows:
 3. Run the Jupyter Notebook cell by cell to execute the code and view the results.
 
 ## Transfer Learning
-- Transfer learning involves using pre-trained word embeddings to improve the model's performance. We experiment with popular word embeddings like Word2Vec, GloVe, and FastText to see how they impact our sentiment analysis model.
+Transfer learning involves using pre-trained word embeddings to improve the model's performance. We experiment with popular word embeddings like Word2Vec, GloVe, and FastText to see how they impact our sentiment analysis model.
 
 ## Predicting Sentiments
-- We demonstrate how to use the best-performing model to predict the sentiments of new reviews. You can input your own review text, and the model will provide its predicted sentiment (positive or negative).
+We demonstrate how to use the best-performing model to predict the sentiments of new reviews. You can input your own review text, and the model will provide its predicted sentiment (positive or negative).
 
 ## Conclusion
 This sentiment analysis project showcases the effectiveness of deep learning models for text classification tasks. We explore various architectures and transfer learning techniques to build an accurate sentiment classifier. The best model achieved impressive results, making it suitable for sentiment analysis in real-world applications.
